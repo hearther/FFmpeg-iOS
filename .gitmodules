@@ -3,4 +3,4 @@
 	url = https://github.com/chrisballinger/ffmpeg-ios-static-libs.git
 [submodule "FFmpeg-iOS-build-script"]
 	path = FFmpeg-iOS-build-script
-	url = https://github.com/kewlbear/FFmpeg-iOS-build-script
+	url = https://github.com/azanium/FFmpeg-iOS-build-script
