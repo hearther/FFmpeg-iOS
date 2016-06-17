@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   
   s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/hearther/FFmpeg-iOS.git", :commit => "3685e8fed5d0a8d186a92b4a2fadfa1ee7be6cac", :submodules => true }
+  s.source       = { :git => "https://github.com/hearther/FFmpeg-iOS.git", :submodules => true }
 
   s.default_subspec = 'precompiled'
 
